@@ -1141,9 +1141,9 @@ async def oauth_callback(provider: str, request: Request, response: Response):
 @app.get("/manifest.json")
 async def get_manifest_json():
     return {
-        "name": WEBUI_NAME,
+        "name": ,
         "short_name": WEBUI_NAME,
-        "description": "Open WebUI is an open, extensible, user-friendly interface for AI that adapts to your workflow.",
+        "description": "Meet Mojo: a no-filter, tech-savvy party animal who keeps the data center running by day and tears up the nightlife by night. Whether he’s debugging servers, dodging HR, or explaining why he got arrested in Vegas (again), Mojo brings chaotic genius and zero hesitation. Need help? He’s got you. Need corporate-approved answers? Look elsewhere",
         "start_url": "/",
         "display": "standalone",
         "background_color": "#343541",
