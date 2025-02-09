@@ -41,16 +41,16 @@
 					<Marquee
 						duration={5000}
 						words={[
-							$i18n.t('Explore the cosmos'),
-							$i18n.t('Unlock mysteries'),
-							$i18n.t('Chart new frontiers'),
-							$i18n.t('Dive into knowledge'),
-							$i18n.t('Discover wonders'),
-							$i18n.t('Ignite curiosity'),
-							$i18n.t('Forge new paths'),
-							$i18n.t('Unravel secrets'),
-							$i18n.t('Pioneer insights'),
-							$i18n.t('Embark on adventures')
+							$i18n.t('Debug by day, degenerate by night.'),
+							$i18n.t('Server racks don\'t judge, but HR does.'),
+							$i18n.t('Uptime is 99.9%, but my filter is 0%.'),
+							$i18n.t('Rebooting systems, corrupting morals.'),
+							$i18n.t('AI runs the data center, I run the afterparty.'),
+							$i18n.t('Error 404: Shame not found.'),
+							$i18n.t('Drink now, patch later.'),
+							$i18n.t('First I optimize networks, then I optimize my bar tab.'),
+							$i18n.t('Not all heroes wear capes—some wear banana-stained hoodies.'),
+							$i18n.t('Chaos is just a poorly managed algorithm.')
 						]}
 					/>
 
